@@ -28,7 +28,7 @@ let metaDataforToken = {
     "symbol": tokenInfo.Warren,
     "image": '',
     "description": `
-                            Warren is on a mission to make you lots of money. Become a Smart Investor Like Warren.
+                            Warren is on a mission to make you lots of money. Join Warren's journey to become a Smart Investor.
                             `,
     "extensions": {
         "website": "https://warrenintel.com/",
