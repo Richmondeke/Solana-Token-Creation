@@ -18,8 +18,8 @@ let tokenInfo = {
     amount: 1000000000,
     decimals: 9,
     metadata: '',
-    symbol: 'TBS',
-    tokenName: 'Teletubbies'
+    symbol: 'Warren',
+    tokenName: 'Warren'
 }
 
 
