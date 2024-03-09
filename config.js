@@ -6,7 +6,7 @@ const bs58 = require('bs58')
 
 const PRIVATE_KEY = "aaaaa";
 const endpoint = "aaaaa";
-const NFT_STORAGE_TOKEN = 'aaaaa';
+const NFT_STORAGE_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGQ4OGFjZWNlYkMyMDY3MDgxOEM1MjNCODM1RmQzRTc0ZjNiOTNFM2MiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTcxMDAwNTM2OTQzNiwibmFtZSI6IldhcnJlbiJ9.X5OlFsOVlVWhq_gK2Q5hspysK1gWctvHAk00BXst6mM';
 
 // Example of created token: https://solscan.io/token/Bj3EDqheEpjSVSwJxWkxYNpPHX1PWQKm7AtpQj8eCMcQ
 
