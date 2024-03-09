@@ -4,8 +4,8 @@ const {
 } = require('@solana/web3.js')
 const bs58 = require('bs58')
 
-const PRIVATE_KEY = "aaaaa";
-const endpoint = "aaaaa";
+const PRIVATE_KEY = "23qBiWMZKyy3L1LcjEpcpB7uoL96QjJtETPzeZAKQw5s1goXiERRwtS7Bu7vNX7MTpjVG2SXhu6pyvkDhqKHmefn";
+const endpoint = "https://api.mainnet-beta.solana.com";
 const NFT_STORAGE_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGQ4OGFjZWNlYkMyMDY3MDgxOEM1MjNCODM1RmQzRTc0ZjNiOTNFM2MiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTcxMDAwNTM2OTQzNiwibmFtZSI6IldhcnJlbiJ9.X5OlFsOVlVWhq_gK2Q5hspysK1gWctvHAk00BXst6mM';
 
 // Example of created token: https://solscan.io/token/Bj3EDqheEpjSVSwJxWkxYNpPHX1PWQKm7AtpQj8eCMcQ
