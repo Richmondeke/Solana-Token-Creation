@@ -24,27 +24,22 @@ let tokenInfo = {
 
 
 let metaDataforToken = {
-    "name": tokenInfo.tokenName,
-    "symbol": tokenInfo.symbol,
+    "name": tokenInfo.Warren,
+    "symbol": tokenInfo.Warren,
     "image": '',
     "description": `
-                            One hundred eaters
-                            They won't fit in one SUV (nah)
-                            S-O-S, somebody rescue me
-                            I got too many gyal, too many-many gyal, I got
-                            They can last me the next two weeks (uh, huh)
-                            Alright, like send the address through, please
+                            Warren is on a mission to make you lots of money. Become a Smart Investor Like Warren.
                             `,
     "extensions": {
-        "website": "https://kokiez.com/",
-        "twitter": "https://twitter.com/kokiez",
-        "telegram": "https://t.me/kokiez"
+        "website": "https://warrenintel.com/",
+        "twitter": "https://twitter.com/warrentothemoon",
+        "telegram": "https://t.me/+eH3w1XoXCfwzZGQ8"
     },
-    "tags": [ "SOLANA","MEME", "KOKIEZ"
+    "tags": [ "SOLANA","MEME", "WARREN", "DEXSCREENER"
     ],
     "creator": {
-        "name": "KOKIEZ",
-        "site": "https://github.com/kokiez"
+        "name": "Warren",
+        "site": "https://warrenintel.com"
     }
 }
 
